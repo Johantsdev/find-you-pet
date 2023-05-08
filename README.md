@@ -6,4 +6,4 @@ This is a copy of the course of Brian Holt on frontend master, [Click here to se
 
 ## Current state
 
-https://react-v8.holt.courses/lessons/special-case-react-tools/error-boundaries
+https://react-v8.holt.courses/lessons/end-of-intro/ways-to-expand-your-app
